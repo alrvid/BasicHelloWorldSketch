@@ -1,5 +1,5 @@
 //
-// 
+// https://github.com/alrvid/BasicHelloWorldSketch
 //
 // The Schrödinger License r3 (https://github.com/benlk/misc-licenses/blob/master/schrodinger-license.md)
 //
