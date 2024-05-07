@@ -4,6 +4,7 @@
 // The Schrödinger License r3 (https://github.com/benlk/misc-licenses/blob/master/schrodinger-license.md)
 //
 
+// %: is the digraph for #
 %:include <cmath>
 %:include <cstdint>
 %:include <cstring>
