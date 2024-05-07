@@ -9,8 +9,13 @@
 %:include <cstdint>
 %:include <cstring>
 
+// U is a Union datatype in C++ that points at the same memory location for all its members.
+// nothingReally() returns a pointer to the char at memory location (9*9-8*8-17=0).
+// notAgain is a static boolean that is not initialized
+// Digraphs: <: :> -> [ ] and <% %> -> { }
 union U <% char* nothingReally() <% return (char*) (9*9-8*8-17); %> static bool notAgain; %>;
 
+// static member of U, needs to be declared outside of the class
 bool U::notAgain;
 
 void setup()
