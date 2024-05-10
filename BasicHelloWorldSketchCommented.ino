@@ -4,6 +4,9 @@
 // The Schrödinger License r3 (https://github.com/benlk/misc-licenses/blob/master/schrodinger-license.md)
 //
 
+// This is the commented version, where I accept comments from anyone who is interested in documenting
+// how the sketch works. Just make a PR!
+
 // %: is the digraph for #
 %:include <cmath>
 %:include <cstdint>
